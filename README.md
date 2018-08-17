@@ -12,3 +12,7 @@ Fetcher for Wiktionary pages of Chinese characters
 
 * `requests`: For REST API calls
 * `peewee`: Sane ORM for humans™
+
+## Datasets
+
+* [wiktionary latest](https://dumps.wikimedia.org/enwiktionary/latest/)
